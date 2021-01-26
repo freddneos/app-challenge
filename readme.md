@@ -22,13 +22,16 @@ localhost:3333/web/login.html  -> localhost:3333/web/index.html
 
 ### On top of Nodejs and Express  with MongoDB.
 
-Backend with typescrypt + Some solid concepts
-- Composition , Single resposability , Liskov substitution , Interface segregation principle. , Dependency inversion principle..
+Backend with typescrypt
+
+- SOLID principles.
 
 - Repository pattern
 
 Frontend with vanilla JS
+
 - ES6 features 
+
 - Bootstrap theme.
 
 
