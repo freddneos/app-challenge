@@ -20,7 +20,7 @@ Client URL
 localhost:3333/web/login.html  -> localhost:3333/web/index.html
 ```
 
-### On top of Nodejs and Express.
+### On top of Nodejs and Express  with MongoDB.
 
 Backend with typescrypt + Some solid concepts
 - Composition , Single resposability , Liskov substitution , Interface segregation principle. , Dependency inversion principle..
