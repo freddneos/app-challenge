@@ -1,0 +1,13 @@
+.content-height-left{
+    height:72vh;
+    max-height: 72vh;
+}
+.content-height-right{
+    height:64vh;
+    max-height: 64vh;
+}
+
+.list-height{
+    max-height: 100%;
+    overflow: auto;
+}
